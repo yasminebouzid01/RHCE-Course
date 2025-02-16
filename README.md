@@ -46,19 +46,22 @@ Ce cours est conçu pour vous préparer à l'examen **RHCE (Red Hat Certified En
 
 ## 📖 Table des Matières  
 
-0️⃣ Introduction
-1️⃣ Installation de Python3 & Ansible-Core
-2️⃣ Authentification SSH sans mot de passe (Passwordless SSH)
-3️⃣ Configuration d’Ansible
-4️⃣ Commandes Ad-Hoc
-5️⃣ Playbooks
-6️⃣ Modules
-7️⃣ Ansible Vaults
-8️⃣ Jinja2 & Templates de Modules
-9️⃣ Task Handlers & Gestion des Erreurs
-🔟 Ansible Galaxy & Rôles
-1️⃣1️⃣ Rôles Systèmes (System Roles)
-1️⃣2️⃣ Gestion du Stockage (Storage Management)
-🏆 Gold (Résumé ou Chapitre Bonus)
+| #   | Chapitre                                      |
+|-----|----------------------------------------------|
+| 0️⃣  | **Introduction**                            |
+| 1️⃣  | **Installation de Python3 & Ansible-Core**  |
+| 2️⃣  | **Passwordless SSH**                        |
+| 3️⃣  | **Configuration**                           |
+| 4️⃣  | **Commandes Ad-Hoc**                        |
+| 5️⃣  | **Playbooks**                               |
+| 6️⃣  | **Modules**                                 |
+| 7️⃣  | **Vaults**                                  |
+| 8️⃣  | **Jinja2 & Module Templates**              |
+| 9️⃣  | **Task Handlers & Error Handlers**         |
+| 🔟  | **Ansible Galaxy & Roles**                  |
+| 1️⃣1️⃣  | **System Roles**                        |
+| 1️⃣2️⃣  | **Storage Management**                 |
+| 🏆  | **Gold (Résumé ou Chapitre Bonus)**         |
+
 
 📌 **Prêt à commencer ? Plongez dans le premier chapitre et automatisez vos systèmes !** 🚀  
