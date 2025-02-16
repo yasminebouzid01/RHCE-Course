@@ -1,5 +1,6 @@
-![633abd8d317691664793997 RHCE_Training-and-certification](https://github.com/user-attachments/assets/365eaca8-39b8-4594-9252-c23928ec93d7)
-# 🚀 Automatisation Système avec Ansible sous Red Hat Enterprise Linux  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/365eaca8-39b8-4594-9252-c23928ec93d7" alt="RHCE Training and Certification">
+</p># 🚀 Automatisation Système avec Ansible sous Red Hat Enterprise Linux  
 
 👋 **Bienvenue dans ce cours sur l'automatisation système avec Ansible sous Red Hat Enterprise Linux**.  
 Ce cours est conçu pour vous préparer à l'examen **RHCE (Red Hat Certified Engineer)** !  
